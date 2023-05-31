@@ -1,0 +1,16 @@
+p{
+    font-family:Verdana ,'Dejavu Sans',  sans-serif;
+    background-color: rgb(255, 167, 167);
+}
+.ajustar-texto{
+    font-size: 24px;
+}
+#iduno{
+    color: blue;
+    font-size: 36px;
+}
+#iddos{
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
